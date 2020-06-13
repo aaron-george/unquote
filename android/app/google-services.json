@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "192260234388",
+    "firebase_url": "https://unquote-ai.firebaseio.com",
+    "project_id": "unquote-ai",
+    "storage_bucket": "unquote-ai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192260234388:android:550fc45b6d4d89a9ffa881",
+        "android_client_info": {
+          "package_name": "com.example.unquote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192260234388-aeka21od703dj54pkg9s3e9i0083q7pk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLPLs5XsERuAKJt8bfRun6Ik-gMHtyN0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192260234388-aeka21od703dj54pkg9s3e9i0083q7pk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
